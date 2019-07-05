@@ -1,0 +1,1 @@
+export const GET_USER_DATA = '@@DASHBOARD/GET_USER_DATA';
