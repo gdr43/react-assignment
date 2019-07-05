@@ -15,14 +15,13 @@ An application to get user data.
 
 ### Installation
 
-- Run `git clone`
-- `cd react-assignment/`
+- Run `git clone https://github.com/gdr43/react-assignment.git`
+- Run `cd react-assignment/`
 - Run `npm install`
 - Run `npm start` and open `localhost:3000` in browser
 
 ## Authors
 
-Contributors names and contact info
 Dilip Reddy
 
 ## Top level directory layout
